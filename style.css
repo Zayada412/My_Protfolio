@@ -62,7 +62,7 @@ body {
 
 /* Hover Effect */
 .navbar .nav-links a:hover {
-    color: #007bff;  /* Change color on hover */
+    color: cyan;  /* Change color on hover */
     background-color: rgba(0, 123, 255, 0.2);  /* Light background effect */
     border-radius: 4px;
 }
